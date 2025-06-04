@@ -1,0 +1,21 @@
+{
+  "name": "express_server",
+  "version": "1.0.0",
+  "description": "We are creatung an simple server using express framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "server",
+    "express",
+    "node"
+  ],
+  "author": "Akash Giri",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
